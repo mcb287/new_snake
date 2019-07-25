@@ -1,0 +1,7 @@
+{
+    "gameX": 80,
+    "gameY": 60,
+    "startLength": 5,
+    "movetimer": 40,
+    "FPS": 600
+}
